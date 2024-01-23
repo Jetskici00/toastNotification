@@ -20,7 +20,7 @@
 
 ## Запуск проекта
 
-## [GitHub Pages](https://jetskici00.github.io/todoApp/)
+## [GitHub Pages](https://jetskici00.github.io/toastNotification/)
 Просто откройте файл `index.html` в вашем веб-браузере.
 
 ## Лицензия
